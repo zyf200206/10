@@ -8,12 +8,12 @@
 	<script>
 		function f1()
 		{
-			alert('我来了');
+			alert('hello');
 		}
 		
 		function f2()
 		{
-			alert('你写了些什么?');
+			alert('嘿，写的不错');
 		}
 	</script>
 	
